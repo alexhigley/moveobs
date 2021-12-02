@@ -1,2 +1,2 @@
 # moveobs
-observatory localization project for pulsar timing array
+observatory localization project for NANOGrav pulsar timing array
